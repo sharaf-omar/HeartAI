@@ -1,7 +1,8 @@
 fastapi
-uvicorn[standard]
-tensorflow-cpu
-numpy
-pandas
-scikit-learn
+uvicorn
 pydantic
+numpy
+scikit-learn
+xgboost
+joblib
+python-multipart
